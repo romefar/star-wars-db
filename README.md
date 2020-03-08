@@ -1,4 +1,4 @@
-##Star wars database
+## Star wars database
 
 A React app for displaying different info about the Star Wars universe.
 
